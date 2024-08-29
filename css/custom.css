@@ -33,3 +33,17 @@
   background: #3ecdf1;
   color: #f2f2f2;
 }
+
+/* 在线链接服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'ssjhsft';	
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(../../ShangShouJiangHuShuFaTi/ShangShouJiangHuShuFaTi/No.289-ShangShouJiangHuShuFaTi-2.ttf);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
