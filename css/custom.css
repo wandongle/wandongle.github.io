@@ -157,3 +157,14 @@ svg.icon {
   fill: currentColor;
   overflow: hidden;
 }
+
+/* 文章过期提示：橙黄色警示样式 */
+#post .post-outdate-notice {
+  background-color: #fff3cd;
+  border-left-color: #f59e0b;
+  color: #92400e;
+}
+
+#post .post-outdate-notice::before {
+  color: #f59e0b;
+}
